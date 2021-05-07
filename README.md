@@ -9,7 +9,7 @@ Area= math.pi*r**2
 Q2
 
 N= input("Enter the file name:")
-if ".py" in N
+if ".py" in N:
     print("Python extension")
 else
     print("No Python extension")
