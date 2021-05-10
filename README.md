@@ -25,3 +25,12 @@ nextElement = fibonacciSeries[i-1] + fibonacciSeries[i-2]
 fibonacciSeries.append(nextElement)
 
 print(fibonacciSeries)
+
+Q4
+
+X= int(input("Enter the number :"))
+for X in range (0,n):
+if (X>0):
+print("Number is positive")
+else:
+print("Number is negative")
