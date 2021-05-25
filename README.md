@@ -34,3 +34,17 @@ if (X>0):
 print("Number is positive")
 else:
 print("Number is negative")
+
+
+Q5
+
+def most_frequent(mystring)
+dict={}
+mystring = "Mississippi"
+for w in mystring:
+dict(w) = mystring.count(w)
+for k in sorted(dict):
+print(k+':'+str(dict[k]))
+mystring = input('Enter the string:')
+count_dict(mystring)
+most_frequent()
